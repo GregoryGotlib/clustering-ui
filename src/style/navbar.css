@@ -1,0 +1,5 @@
+    .bg-dark {
+      display: flex;
+      background-color: #343a40!important;
+      justify-content: center;
+  }
